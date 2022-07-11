@@ -4,6 +4,27 @@ body{
     font-family: "Arial";  
 }
 
+td{
+    border: 3px solid skyblue;
+    margin: 0 auto;
+}
+
+header{
+    width: 100%;
+}
+
+table{
+    width: 100%;
+}
+
+tr{
+    width: 100%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
 p{
     color: brown;
     text-align: justify;
